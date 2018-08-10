@@ -3,3 +3,5 @@ language: c
 os: -linux
 
 compiler: gcc
+
+./configure && make && make test
