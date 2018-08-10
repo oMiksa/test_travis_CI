@@ -4,6 +4,7 @@
 #include "fn.h"
 
 int main(int argc, char ** argv){
+    //123
     WINDOW *wnd;
     WINDOW *wnd_txt;
     MEVENT event;
